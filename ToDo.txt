@@ -1,0 +1,17 @@
+Summer To Do List:
+
+1. Learn as much as possible of CS during break
+2. Practice Leetcode/HackerRank
+3. Create E-Portfolio/Portfolio Website
+4. Create a project with HTML, CSS, JavaScript
+5. Create more projects
+6. Learned Data Structure Implementation in python
+
+
+Accomplished This Summer So Far:
+1. Practice and learned new methods in python
+2. Practice with some OAs
+3. Practice with HackerRank/Leetcode
+4. Learned Javascript/ES6
+5. Learned HTML/HTML5
+6. Learned CSS
